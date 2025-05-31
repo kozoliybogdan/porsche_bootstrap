@@ -77,6 +77,13 @@ h2 {
     margin-bottom: 1rem;
 }
 
+.model-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
 .btn {
     background-color: #6b6b6b;
     border: none;
@@ -86,8 +93,6 @@ h2 {
     background-color: rgb(173, 14, 14);
 
 }
-
-
 
 .footer {
     width: 100vw;
